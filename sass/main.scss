@@ -15,10 +15,11 @@ light grey  #d4d4d4
 dark grey   #222
 
                 DEFAULTS
-***********************************************/
+***********************************************/ 
 
 @import "variables";
 @import "mixins";
+
 
 * {
     padding: 0;
@@ -300,6 +301,4 @@ footer h4[lang=ru] {
     display: none;
 }
 
-
-
-@import "queries";
+@import "queries"; 
